@@ -1,4 +1,4 @@
 # Linguagem C
 Estudos da linguagem C / Exercícios da faculdade.
 
-<img src="https://img2.gratispng.com/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg">
+<img src="https://images.vexels.com/media/users/3/166253/isolated/lists/14bc03b7b1c2c4e2656fd4c0a981cbbc-icone-da-linguagem-de-programacao-cpp.png">
