@@ -33,7 +33,7 @@ bool continua(){
 }
 int main()
   {
-    setlocale("LC_ALL", "Portuguese");
+    setlocale(LC_ALL, "Portuguese");
     int num;
     bool retorno;
     bool cont = true;
